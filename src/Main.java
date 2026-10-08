@@ -25,3 +25,4 @@ public class Main {
         System.out.printf(Locale.US, "Площадь заштрихованной части: %.4f%n", s);
     }
 }
+//.
